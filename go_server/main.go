@@ -4,13 +4,13 @@ import (
 	"log"
 	"os"
 
-	"github.com/tyler-mcintyre/go/go_server/microservice"
+	"github.com/tyler-mcintyre/go_server/microservice"
 )
 
 func main() {
 	server, err := BuildServer()
 	if err != nil {
-		log.Println("Error")
+		log.Printf("Error: %v", err)
 		os.Exit(1)
 	}
 
