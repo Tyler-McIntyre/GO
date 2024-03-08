@@ -1,9 +1,10 @@
 package main
 
 import (
-	"go_server/microservice"
 	"log"
 	"os"
+
+	"github.com/tyler-mcintyre/go_server/microservice"
 )
 
 func main() {
