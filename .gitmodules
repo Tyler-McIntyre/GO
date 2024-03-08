@@ -1,0 +1,12 @@
+[submodule "go_client"]
+	path = go_client
+	url = https://github.com/Tyler-McIntyre/go_client/
+[submodule "go_service_layer"]
+	path = go_service_layer
+	url = https://github.com/Tyler-McIntyre/go_service_layer/
+[submodule "go_router"]
+	path = go_router
+	url = https://github.com/Tyler-McIntyre/go_router/
+[submodule "go_server"]
+	path = go_server
+	url = https://github.com/Tyler-McIntyre/go_server/
