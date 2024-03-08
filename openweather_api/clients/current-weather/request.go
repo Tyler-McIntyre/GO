@@ -6,8 +6,9 @@ import (
 	"io"
 	"log"
 	"net/http"
-	"openweather_api/models"
 	"os"
+
+	"github.com/tyler-mcintyre/openweather_api/models"
 )
 
 type Client interface {
