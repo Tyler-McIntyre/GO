@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/tyler-mcintyre/openweather_api/models"
+	"github.com/tyler-mcintyre/go/openweather_api/models"
 )
 
 type Client interface {
