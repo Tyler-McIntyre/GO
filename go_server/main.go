@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/tyler-mcintyre/go_server/microservice"
+	"github.com/tyler-mcintyre/go/go_server/microservice"
 )
 
 func main() {
